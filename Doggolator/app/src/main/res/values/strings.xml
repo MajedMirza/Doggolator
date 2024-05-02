@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doggolator</string>
+    <string name="dog1">Duch</string>
+    <string name="dog2">German</string>
+    <string name="dog3">Golden</string>
+    <string name="dog4">Shiba</string>
+    <string name="close">Close</string>
+    <string name="instructions">Instructions</string>
+    <string name="you_can_play_around_with_different_dog_breeds_in_this_app_there_are_four_types_of_dog_breeds_available_for_selection_to_choose_a_breed_simply_click_on_one_of_the_dogs_then_select_another_breed_to_combine_with_the_first_one_you_chose_finally_click_the_quot_result_quot_button_to_see_the_unique_breed_combination_you_ve_created">You can play around with different dog breeds in this app. There are four types of dog breeds available for selection. To choose a breed, simply click on one of the dogs. Then, select another breed to combine with the first one you chose. Finally, click the \"Result\" button to see the unique breed combination you\'ve created.</string>
+</resources>
